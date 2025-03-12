@@ -1,7 +1,7 @@
 <scene>
 
 Main() {
-	scene.Init()
-	scene.Loop()
-	scene.Free()
+    scene.Init()
+    scene.Loop()
+    scene.Free()
 }
